@@ -1,0 +1,242 @@
+
+        .slideshow-container {
+               
+            position: relative;
+            left: -14px;
+                
+        }
+        .prev {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            color: white;
+            border: solid;
+
+            padding: 10px;
+        }
+        .next {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            border: solid;
+            padding: 10px;
+            right: -230px;
+            border-radius: 3px 0 0 3px;
+        }
+
+        .mySlides {
+            display:none;
+        }
+        .container {
+            position: absolute;
+          
+        }
+        .topnav{
+          overflow: hidden;
+          background-color:transparent;
+        }
+    
+        .topnav {
+            text-align: center;
+           
+            word-spacing: 28px;
+            text-decoration: none;
+        }
+        .topnav:hover{
+          background-color:transparent;
+          color: darkblue;
+        }
+        .down{
+            border: solid;
+            border-radius: 22px;
+            border-color: white;
+            background: blue;
+            color: white;
+            padding: 5px;
+        }
+        .p{
+            
+            color: red;
+            padding: 125px 135px
+        }
+        
+        .active, .down a:hover{
+               background-color: white;
+               color: blue;
+        }
+        .new{
+            FONT-WEIGHT: 500;
+            margin-left: 132px;
+            margin-top: -110px;
+            word-spacing: 20px;
+        }
+        .jumbotron{
+            padding-top: 1000px;
+            
+        }
+        .our{
+            margin-top: -440px;
+            text-align: center;
+        }
+        .row{
+        
+            margin-left: 200px;
+        }
+        .graph{
+            width: 100px;
+            margin-left: 165px;
+            margin-top: -85px;
+        }
+        .graphic{
+            border: none;
+            background-color: white;
+            font-size: 20px;
+        }
+        .work{
+            text-align: center;
+        }
+        .puzzle{
+            width: 730px;
+            height: 450px;
+            padding-bottom: 100px;
+        }
+        .alll{
+            color: black;
+            font-weight: bold;
+            text-align: center;
+          
+        }
+        .activee, .alll a:hover{
+            padding: 20px;
+            background-color: blueviolet;
+            border-radius: 30px;
+            color: white;
+        }
+       .my{
+            text-align: center;
+            padding-top: -26px;
+            margin-top: -930px;
+            padding-bottom: 60px;
+       }
+       .sym{
+            font-size: 100px;  
+            padding: 65px;
+            color: wheat;
+       }
+       .gra{
+            border: none;
+            background-color:blue;
+            font-size: 20px;
+            text-align: center;
+            height: 470px;
+       }
+       .A{
+            color: blue;
+            background-color: white;
+            padding: 10px;
+            border-radius: 35px;
+            font-weight: bold;
+       }
+       .B{
+           color: white;
+       }
+       .C{
+           padding-top: 15px;
+       }
+       .D{
+            color: blue;
+            font-weight: bold;
+       }
+       .E{
+            height: 500px;
+            width: 745px;
+       }
+       .F{
+            margin-top: -855px;
+       }
+       .G{
+           padding-bottom: 70px;
+       }
+       .H{
+           text-align: center;
+           padding-top: 70px;
+       }
+       .I{
+           padding-bottom: 60px;
+       }
+       .J{
+            text-align: center;
+            margin-top: -850px;
+        
+       }
+       .K{
+            padding-left: 200px;
+            padding-right: 0px;
+            text-align: center;
+            width: 1150px;
+            height: 500px;
+       }
+       .L{
+           padding-top: 80px;
+       }
+       .M{
+            font-size: 45px;
+            color: white;
+            background-color: black;
+            padding: 15px;
+            border-radius: 35px;
+       }
+       .N{
+            font-size: 25px;
+            font-weight: bold;
+            padding-left: 75px;
+            margin-top: -74px;
+
+       }
+       .O{
+            font-size: 45px;
+            color: white;
+            background-color: red;
+            padding: 15px;
+            border-radius: 35px;
+       }
+       .Q{
+            font-size: 45px;
+            color: white;
+            background-color: blue;
+            padding: 15px;
+            border-radius: 35px;
+       }
+       .R{
+            text-align: left;
+            padding-left: 225px;
+            padding-top: 30px;
+            word-spacing: 10px;
+            font-size: 30px;
+       }
+       .S{
+        padding-left: 213px;
+       }
+       .T{
+           margin-left: 214px;
+       }
+       .footer{
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            background-color: black;
+            color: white;
+            text-align: center;
+            margin-top: 50px;
+            padding-top: 53px;
+            padding-bottom: 89px;
+       }
+       .Z{
+           color: blue;
+       }
+       .X{
+        padding-bottom: 0px;
+       }
+
+      
+        
